@@ -10,8 +10,8 @@
   <a href="https://github.com/mahenz2?tab=followers">
     <img src="https://img.shields.io/github/followers/mahenz2?label=Followers&style=flat-square&color=236ad3" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/mahenz2/README.md">
-    <img src="https://img.shields.io/badge/Repository-README.md-181717?style=flat-square&logo=github" alt="Repository" />
+  <a href="https://github.com/mahenz2/mahenz2">
+    <img src="https://img.shields.io/badge/Profile%20Repository-mahenz2-181717?style=flat-square&logo=github" alt="Profile repository" />
   </a>
 
 </div>
@@ -41,7 +41,7 @@ Hi, I'm **mahenz2** — a developer who enjoys turning ideas into useful web app
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahenz2/README.md/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/mahenz2/mahenz2/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
 ## GitHub Insights
