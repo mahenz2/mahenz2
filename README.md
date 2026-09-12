@@ -33,26 +33,46 @@ Hi, I'm **mahenz2** — a developer who enjoys turning ideas into useful web app
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [MadeBali-Private-Tour](https://github.com/mahenz2/MadeBali-Private-Tour) | A private tour web project | Blade |
-| [LATIHAN](https://github.com/mahenz2/LATIHAN) | Practice and learning repository | Projct Tereking |
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/mahenz2/MadeBali-Private-Tour">MadeBali Private Tour</a></h3>
+        <p>A private tour web project.</p>
+        <img src="https://img.shields.io/badge/Stack-Blade-e34f26?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+      </td>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/mahenz2/LATIHAN">LATIHAN</a></h3>
+        <p>Practice and learning repository.</p>
+        <img src="https://img.shields.io/badge/Stack-Practice-236ad3?style=flat-square&logo=github" alt="Practice" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahenz2/mahenz2/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <a href="https://github.com/mahenz2">
+    <img src="https://raw.githubusercontent.com/mahenz2/mahenz2/gh-pages/github-contribution-grid-snake.svg?v=2" width="100%" alt="Contribution snake animation" />
+  </a>
 </div>
 
 ## GitHub Insights
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahenz2&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahenz2&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/mahenz2">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahenz2&theme=tokyonight" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/mahenz2?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahenz2&theme=tokyonight" alt="Top languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahenz2&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity graph" />
+  <a href="https://github.com/mahenz2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahenz2&theme=tokyonight" width="100%" alt="GitHub activity summary" />
+  </a>
 </div>
 
 ## Connect
