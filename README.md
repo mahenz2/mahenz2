@@ -1,88 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=mahenz2&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20Practical%20Digital%20Experiences&descAlignY=62&descSize=18" width="100%" alt="mahenz2 banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:183E3A,50:236E68,100:5BC1C0&height=190&section=header&text=I%20Wayan%20Mahendra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20Practical%20Digital%20Products&descAlignY=62&descSize=16" width="100%" alt="I Wayan Mahendra profile banner" />
 </div>
 
 <div align="center">
-
   <a href="https://github.com/mahenz2">
-    <img src="https://komarev.com/ghpvc/?username=mahenz2&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=mahenz2&label=Profile%20views&color=236E68&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/mahenz2?tab=followers">
-    <img src="https://img.shields.io/github/followers/mahenz2?label=Followers&style=flat-square&color=236ad3" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/mahenz2/mahenz2">
-    <img src="https://img.shields.io/badge/Profile%20Repository-mahenz2-181717?style=flat-square&logo=github" alt="Profile repository" />
-  </a>
-
-</div>
-
-## Overview
-
-Hi, I'm **mahenz2** — a developer who enjoys turning ideas into useful web applications. I am currently exploring practical software development through personal projects, experiments, and continuous learning.
-
-- 🏠 Working from home
-- 🌱 Learning and improving one project at a time
-- 🧩 Interested in web development, clean interfaces, and useful digital products
-- 🤝 Open to collaboration and constructive ideas
-
-## Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,blade,js,tailwind,mysql,git,github,vscode&perline=9" alt="Tech stack" />
-</div>
-
-## Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/mahenz2/MadeBali-Private-Tour">MadeBali Private Tour</a></h3>
-        <p>A private tour web project.</p>
-        <img src="https://img.shields.io/badge/Stack-Blade-e34f26?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
-      </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/mahenz2/LATIHAN">LATIHAN</a></h3>
-        <p>Practice and learning repository.</p>
-        <img src="https://img.shields.io/badge/Stack-Practice-236ad3?style=flat-square&logo=github" alt="Practice" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/mahenz2">
-    <img src="https://raw.githubusercontent.com/mahenz2/mahenz2/gh-pages/github-contribution-grid-snake.svg?v=2" width="100%" alt="Contribution snake animation" />
-  </a>
-</div>
-
-## GitHub Insights
-
-<div align="center">
-  <a href="https://github.com/mahenz2">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahenz2&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://img.shields.io/github/followers/mahenz2?label=Followers&style=flat-square&color=236E68" alt="GitHub followers" />
   </a>
   <a href="https://github.com/mahenz2?tab=repositories">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahenz2&theme=tokyonight" alt="Top languages" />
+    <img src="https://img.shields.io/badge/View%20repositories-181717?style=flat-square&logo=github&logoColor=white" alt="View repositories" />
   </a>
 </div>
+
+## About me
+
+Hi, I’m **I Wayan Mahendra** — a web developer based in Bali, Indonesia. I enjoy turning practical business needs into useful, maintainable digital products.
+
+My current interests include:
+
+- Building web applications with **Laravel, Livewire, and PostgreSQL**.
+- Creating fast company websites with **Astro, TypeScript, and Tailwind CSS**.
+- Exploring Android development with **Kotlin**.
+- Designing simple workflows for tourism, operations, and personal finance.
+- Learning through real projects and continuous improvement.
+
+## What I build
+
+```text
+Business websites      →  clear presentation and stronger online presence
+Operational systems    →  practical tools for daily workflows
+Finance applications   →  transactions, budgets, reports, and auditability
+Mobile prototypes      →  focused Android experiences
+```
+
+## Featured projects
+
+### 🧾 [Voucer-raking](https://github.com/mahenz2/Voucer-raking)
+Voucher verification and airport-transfer operations system built with Laravel, Livewire, Flux UI, and PostgreSQL.
+
+### 💼 [WalletBook](https://github.com/mahenz2/walletbook)
+Personal finance management application with wallets, transactions, budgets, savings goals, reports, and audit logging.
+
+### 🌴 [Bali Made Tour & Travel](https://github.com/mahenz2/bali-made-tour-travel)
+A bilingual, mobile-first company profile website for a Bali tour and travel business, built with Astro and TypeScript.
+
+### 🏢 [Central Saga Mandala](https://github.com/mahenz2/central-saga-mandala)
+A modern company landing page built with Astro, TypeScript, and Tailwind CSS.
+
+### 📱 [Android Prototype](https://github.com/mahenz2/Android-Protype)
+An Android learning project focused on exploring mobile application structure and Kotlin development.
+
+### 🗂️ [Portfolio](https://github.com/mahenz2/Fortofolio-Mahen)
+A portfolio website presenting selected projects and my learning journey as a junior web developer.
+
+## Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,blade,js,ts,astro,tailwind,kotlin,android,postgres,mysql,git,github,vscode&perline=8" alt="PHP, Laravel, Livewire, Blade, JavaScript, TypeScript, Astro, Tailwind CSS, Kotlin, Android, PostgreSQL, MySQL, Git, GitHub, and VS Code" />
+</div>
+
+## Currently learning
+
+- Building reliable full-stack applications.
+- Improving database design and application security.
+- Writing clearer project documentation.
+- Testing and reviewing code before deployment.
+- Turning business requirements into simple user flows.
+
+## Collaboration
+
+I’m interested in practical projects involving:
+
+- Tourism and hospitality technology.
+- Business websites and landing pages.
+- Internal operational tools.
+- Laravel and Livewire applications.
+- Beginner-friendly software development.
+
+If you find a project useful or have a constructive suggestion, feel free to open an issue or start a discussion in the relevant repository.
+
+## GitHub activity
 
 <div align="center">
   <a href="https://github.com/mahenz2">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahenz2&theme=tokyonight" width="100%" alt="GitHub activity summary" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahenz2&show_icons=true&hide_border=true&title_color=236E68&icon_color=FF987C&text_color=183E3A&bg_color=FAF9F5" height="165" alt="GitHub statistics" />
   </a>
-</div>
-
-## Connect
-
-<div align="center">
-  <a href="https://github.com/mahenz2">
-    <img src="https://img.shields.io/badge/GitHub-mahenz2-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/mahenz2?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahenz2&layout=compact&hide_border=true&title_color=236E68&text_color=183E3A&bg_color=FAF9F5" height="165" alt="Top programming languages" />
   </a>
 </div>
 
 <div align="center">
-  <sub>Designed with Markdown, curiosity, and a little bit of ✨</sub>
+  <sub>Building practical software, one project at a time.</sub>
 </div>
